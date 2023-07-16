@@ -1,0 +1,5 @@
+﻿अनुच्छेद 01|article1
+अनुच्छेद 02|article2
+अनुच्छेद 03|article3
+अनुच्छेद 04|article4
+अनुच्छेद 05 |article5
